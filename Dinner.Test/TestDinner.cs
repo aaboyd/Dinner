@@ -45,7 +45,7 @@ namespace AlexBoyd.Dinner.Test
           Title = "Dinner Title",
           Date = DateTime.UtcNow,
           Address = "Awesome Street, Detroit, MI",
-          HostedBy = "Dan Gilbert"
+          HostedBy = "The Artist Formerly Known as Prince"
         });
 
         ctx.SaveChanges();
