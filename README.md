@@ -1,4 +1,4 @@
 Dinner
 ======
 
-Demo Application for http://alexboyd.me/2013/04/nancy-ef-crud
+Demo Application for http://alexboyd.me/2014/03/nancyfx-ef-crud
